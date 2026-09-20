@@ -254,5 +254,185 @@
     "Published": "2026-09-20T15:40:12.4538025+00:00",
     "GameAppId": "1144200",
     "DownloadUrl": "https://github.com/SecretFourStudios/modpacklink-packs/releases/download/pack-18013-v1.0.0/18013-RoN.Modpack-v1.0.0.zip"
+  },
+  "24994": {
+    "Id": "925a023d-fd81-47df-8101-a04420d65d2b",
+    "Code": "24994",
+    "Name": "Ready or Not Modpack",
+    "Game": "Ready or Not",
+    "Version": "1.0.0",
+    "Files": [
+      {
+        "RelativePath": "pakchunk101_2-Mod_ArmorSlots255_P.pak",
+        "Sha256": "C318AEB654DFA8F4181151F5E66E587B6F02D2FD613D9576880B71D1C0EB7ABD"
+      },
+      {
+        "RelativePath": "pakchunk97-Restoration_AIO_Nexus_BP_P.pak",
+        "Sha256": "F1AD88850BA7CFB122ABB9FAD60D7EDB0A9EC96BF66079C63538EEFD66E2615D"
+      },
+      {
+        "RelativePath": "pakchunk99-CosmeticUnlocker_BP_P.pak",
+        "Sha256": "B1CB72F164DCE625FEC41B0C5E9C9B7B773DB14A43B6EC9C67AE6A252DD58F59"
+      },
+      {
+        "RelativePath": "pakchunk99-CosmeticUnlocker_Secret_BP_P.pak",
+        "Sha256": "87B95956814CD784FD4F064B1A39A8B3BE4864B86B88EA23B6F364FD3BF5554F"
+      },
+      {
+        "RelativePath": "pakchunk99-Mods_AirforceXII-M5B(UH-1)_DLC4_P.pak",
+        "Sha256": "D32B7DF0008812477E5E0ECC0638AFC93BF50DD43394919279BD5C09D7FEBA9E"
+      },
+      {
+        "RelativePath": "pakchunk99-Mods_COR45_P.pak",
+        "Sha256": "DC5E9D530EC30BAB1E128C9CD8560A184293A1780E38F34B246EAC6106B97D93"
+      },
+      {
+        "RelativePath": "pakchunk99-Mods_ExsaitX_Armory_V2_Assets_P.pak",
+        "Sha256": "369E0ED91519E884CDBD4A6BF1B8AE46E26916B702411AF5EA3D4FF2E296FE16"
+      },
+      {
+        "RelativePath": "pakchunk99-Mods_ExsaitX_Armory_V2_BluePrints_P.pak",
+        "Sha256": "FA1894CA35B0ED485DEA4127F27BD21D45A3E2BF5870C1FEBEEEA76EDCC5C268"
+      },
+      {
+        "RelativePath": "pakchunk99-Mods_FasterScoreV2_P.pak",
+        "Sha256": "624A968CEEFF808CDEFDAB99C073113EDC508EAC4EED791867219A6BE05FFD85"
+      },
+      {
+        "RelativePath": "pakchunk99-Mods_GhostNightwar_P.pak",
+        "Sha256": "E7D8D83814928A1455FD4CE3860510E82B4C0D6143AD5D4927FB5FAFC6F9C0B4"
+      },
+      {
+        "RelativePath": "pakchunk99-Mods_Jeans_P.pak",
+        "Sha256": "871B07067BACEC587F637A9C144C28A0848A4E0A41ADFAB422B2B0F7726DDCBE"
+      },
+      {
+        "RelativePath": "pakchunk99-Mods_NoMercy_P.pak",
+        "Sha256": "F10B69B81452354620EC13F315C45F0D2E26913D3371D47E7220BFF41F32B990"
+      },
+      {
+        "RelativePath": "pakchunk99-Mods_P320XFive_P.pak",
+        "Sha256": "2908C30FA6D138021B4DE94EDA23101D357FFA9E31FFA5CD8D640108AAC61C39"
+      },
+      {
+        "RelativePath": "pakchunk99-Mods_SA_TTI2011_Combat Master_P.pak",
+        "Sha256": "06B42E8CC0842E17EFF5F5694A11DFA97738136140F4FF4AC2180984E0A292C5"
+      },
+      {
+        "RelativePath": "pakchunk99-Mods_Surefire_Flashlights_1500Lumens_P.pak",
+        "Sha256": "72F07339F537DF80D2981ECA6E4C3A284E2E07721079BBF78D045049FBDBA283"
+      },
+      {
+        "RelativePath": "pakchunk99-Mods_UnEquipWeapons_P.pak",
+        "Sha256": "D7E1DA16E6031711ED66E340D52877F681E8D71BE40E6AC013F6B69BBAE21B79"
+      },
+      {
+        "RelativePath": "pakchunk99-Mods_WeaponAttachmentsLoader_AllInOne_P.pak",
+        "Sha256": "968408A1E99A3D4BF21EEE5699A8261CFF6CB21EDEDEFB8A2DE244FBEC0890D4"
+      },
+      {
+        "RelativePath": "pakchunk99-Mod_PlayerLimitEditor.pak",
+        "Sha256": "CFA95C9F5A807D1C285774A3CAB064043E3AE246A1918D46310525A1A715B32F"
+      },
+      {
+        "RelativePath": "pakchunk99-Mod_SimpleBlueprintLoader.pak",
+        "Sha256": "1B48EA4D5B17FA5ABA2CC52C5556CB37846E20C137858EDFB8719D500DCE7A32"
+      },
+      {
+        "RelativePath": "pakchunk99-Mod_SimpleModMenu.pak",
+        "Sha256": "4255C8FCCAC11762743039CCCF905E4F2C315641E76D630A148DB121AC8AFD45"
+      },
+      {
+        "RelativePath": "pakchunk99-Mod_ThermalNVG.pak",
+        "Sha256": "D4CB7B30708E62338A8983B629067171C6EEA0398FB2BFAF2DD8CA2963062CA9"
+      },
+      {
+        "RelativePath": "pakchunk99-Mod_USCVillardMuseum.pak",
+        "Sha256": "8BFF02FF4F0CAE01ACE92E47B0E25697FF33E349FE1F6E82F0633DE300BD7D49"
+      },
+      {
+        "RelativePath": "pakchunk99-NoWaitTime_P.pak",
+        "Sha256": "38455CBBC1DDEF5EE4EABB56EE743D3EEA2D849B1E7DAD132FC93D7D5E6FC4BC"
+      },
+      {
+        "RelativePath": "pakchunk99-SmoothATAC_P.pak",
+        "Sha256": "C5C66ED91671CA7AB6A2792ABA426842DB1CE4D78AD9EE0E8A4A8411D8E6F513"
+      },
+      {
+        "RelativePath": "pakchunk999-Mods_AZZYSARMOURY_IDK_P.pak",
+        "Sha256": "06D74BAB0105D11A8679B805058AB5A13E2EE1A06B8DE919733EAC227F79477C"
+      },
+      {
+        "RelativePath": "pakchunk999-Mods_ExsaitX_Loadout_GunRoom_P.pak",
+        "Sha256": "FDFC4B637BD82D3789182A7F7A08CBCAE0F21D4BE71A524B785F03EE72979E83"
+      },
+      {
+        "RelativePath": "pakchunk999-Pepperball_P.pak",
+        "Sha256": "3B34591E4B1DD99DCAE4C2E3E88C218DCA4FAC9E390A37D89FD467FC0AA62549"
+      },
+      {
+        "RelativePath": "pakchunk999-Pepperspray_P.pak",
+        "Sha256": "010396B0B09901356136D8A1F23EA90F9F9E7C57B4D65E1193A61E9EB4738DA1"
+      },
+      {
+        "RelativePath": "pakchunk999-PW_PMAGS_P.pak",
+        "Sha256": "1E3D1BF299489CA665743034DD3FB994455CA9C6ED4995A517D46B470778B141"
+      },
+      {
+        "RelativePath": "pakchunk9999-Mods_Allu_G36KA4_GF_P.pak",
+        "Sha256": "CD129ABD5CC6CB8B5B589EAD3D0FE4F0B31E66C93A76E7A1D1005ACE51D2A360"
+      },
+      {
+        "RelativePath": "pakchunk9999-Mods_Allu_SCAR-SC_P.pak",
+        "Sha256": "940C704C051DED468981E398656AEC08F070703EE83699110C14A65F3196969D"
+      },
+      {
+        "RelativePath": "pakchunk9999-Mods_CazanusVisceralBlud_P.pak",
+        "Sha256": "9369AD51504F038CBB77F1BFE0B9CB937D36748D39B3560C1E0056A77B3D618F"
+      },
+      {
+        "RelativePath": "pakchunk9999-Mods_CazanusVisceralGore_P.pak",
+        "Sha256": "7A5C1DA732582EC525C8A0F3944F74B33A70DEDAA526033A7F51FD02AA06E4E9"
+      },
+      {
+        "RelativePath": "pakchunk9999-Mods_ExsaitX_Loadout_GunRoom_Theme_P.pak",
+        "Sha256": "7941E39EC73C3CF89FB71DD7F88A72E24F50F3BF7B908B5512E8F2CA22114030"
+      },
+      {
+        "RelativePath": "pakchunk9999-Mods_Moon-920_1_P.pak",
+        "Sha256": "4A0180F335F326D56F2F30EAD8025D77F2D369ED253529410EF7A2727AF821DD"
+      },
+      {
+        "RelativePath": "pakchunk9999-Mods_Moon-94_1_P.pak",
+        "Sha256": "73D5259D5BFB8AC64D05A834D6103869CC65D9E9FD73736F47C7E73B596D7E5F"
+      },
+      {
+        "RelativePath": "pakchunk9999-Mods_wound_P.pak",
+        "Sha256": "C4305261DF235104BB2380D61642376456A56612E4803610D2C351B3612C21FA"
+      },
+      {
+        "RelativePath": "pakchunk99999-Mods_ATACR_Texture_P.pak",
+        "Sha256": "11E9FDBBC0B4BAC65BD28B813F0B415EAD5F6CAD5A2496791C4DCC3E449B7425"
+      },
+      {
+        "RelativePath": "pakchunk99999-Mods_Ragdolls_Return_3.0.1_hotfix_P.pak",
+        "Sha256": "A07F70FF9A56510A8EC79F570854871F9DA89EE9933A3C1CF8E4F1E064FC0D0C"
+      },
+      {
+        "RelativePath": "Pakchunk99999999-Mods_EN-CANIKMETEMC9L_P.pak",
+        "Sha256": "74F9CD89490E28CF1CD1AC8C32D75E9ADC3584DBD2B6C486CCA73632884DB6F5"
+      },
+      {
+        "RelativePath": "Pakchunk99999999-Mods_EN-CANIKRIVALS_P.pak",
+        "Sha256": "416EBB4D8703D7EA6600B47E7F4D4A4581B89C9AE914F43B786ECA16BB22E391"
+      },
+      {
+        "RelativePath": "Pakchunk99999999-Mods_EN-CANIKTTICOMBAT_P.pak",
+        "Sha256": "D20CA24A70D51717F22222A473D8F2DC7FAB3098AB329AB72A6691D554800E29"
+      }
+    ],
+    "Published": "2026-09-20T20:24:08.3981794+00:00",
+    "GameAppId": "1144200",
+    "DownloadUrl": "https://github.com/SecretFourStudios/modpacklink-packs/releases/download/pack-24994-v1.0.0/24994-Ready.or.Not.Modpack-v1.0.0.zip"
   }
 }
