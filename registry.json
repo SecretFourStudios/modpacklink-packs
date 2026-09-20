@@ -1,0 +1,130 @@
+{
+  "83167": {
+    "Id": "7b330ef2-247e-4a87-b838-a1a34b85b445",
+    "Code": "83167",
+    "Name": "RoN Test",
+    "Game": "Ready or Not",
+    "Version": "1.0.0",
+    "Files": [
+      {
+        "RelativePath": "pakchunk101_2-Mod_ArmorSlots255_P.pak",
+        "Sha256": "C318AEB654DFA8F4181151F5E66E587B6F02D2FD613D9576880B71D1C0EB7ABD"
+      },
+      {
+        "RelativePath": "pakchunk97-Restoration_AIO_Nexus_BP_P.pak",
+        "Sha256": "F1AD88850BA7CFB122ABB9FAD60D7EDB0A9EC96BF66079C63538EEFD66E2615D"
+      },
+      {
+        "RelativePath": "pakchunk99-Mods_ExsaitX_Armory_V2_Assets_P.pak",
+        "Sha256": "369E0ED91519E884CDBD4A6BF1B8AE46E26916B702411AF5EA3D4FF2E296FE16"
+      },
+      {
+        "RelativePath": "pakchunk99-Mods_ExsaitX_Armory_V2_BluePrints_P.pak",
+        "Sha256": "FA1894CA35B0ED485DEA4127F27BD21D45A3E2BF5870C1FEBEEEA76EDCC5C268"
+      },
+      {
+        "RelativePath": "pakchunk99-Mods_NoMercy_P.pak",
+        "Sha256": "F10B69B81452354620EC13F315C45F0D2E26913D3371D47E7220BFF41F32B990"
+      },
+      {
+        "RelativePath": "pakchunk99-Mods_Surefire_Flashlights_1500Lumens_P.pak",
+        "Sha256": "72F07339F537DF80D2981ECA6E4C3A284E2E07721079BBF78D045049FBDBA283"
+      },
+      {
+        "RelativePath": "pakchunk99-Mods_UnEquipWeapons_P.pak",
+        "Sha256": "D7E1DA16E6031711ED66E340D52877F681E8D71BE40E6AC013F6B69BBAE21B79"
+      },
+      {
+        "RelativePath": "pakchunk99-Mod_PlayerLimitEditor.pak",
+        "Sha256": "CFA95C9F5A807D1C285774A3CAB064043E3AE246A1918D46310525A1A715B32F"
+      },
+      {
+        "RelativePath": "pakchunk99-Mod_SimpleBlueprintLoader.pak",
+        "Sha256": "1B48EA4D5B17FA5ABA2CC52C5556CB37846E20C137858EDFB8719D500DCE7A32"
+      },
+      {
+        "RelativePath": "pakchunk99-Mod_SimpleModMenu.pak",
+        "Sha256": "4255C8FCCAC11762743039CCCF905E4F2C315641E76D630A148DB121AC8AFD45"
+      },
+      {
+        "RelativePath": "pakchunk99-Mod_ThermalNVG.pak",
+        "Sha256": "D4CB7B30708E62338A8983B629067171C6EEA0398FB2BFAF2DD8CA2963062CA9"
+      },
+      {
+        "RelativePath": "pakchunk99-Mod_USCVillardMuseum.pak",
+        "Sha256": "8BFF02FF4F0CAE01ACE92E47B0E25697FF33E349FE1F6E82F0633DE300BD7D49"
+      },
+      {
+        "RelativePath": "pakchunk99-NoWaitTime_P.pak",
+        "Sha256": "38455CBBC1DDEF5EE4EABB56EE743D3EEA2D849B1E7DAD132FC93D7D5E6FC4BC"
+      },
+      {
+        "RelativePath": "pakchunk99-SmoothATAC_P.pak",
+        "Sha256": "C5C66ED91671CA7AB6A2792ABA426842DB1CE4D78AD9EE0E8A4A8411D8E6F513"
+      },
+      {
+        "RelativePath": "pakchunk999-Mods_AZZYSARMOURY_IDK_P.pak",
+        "Sha256": "06D74BAB0105D11A8679B805058AB5A13E2EE1A06B8DE919733EAC227F79477C"
+      },
+      {
+        "RelativePath": "pakchunk999-Mods_ExsaitX_Loadout_GunRoom_P.pak",
+        "Sha256": "FDFC4B637BD82D3789182A7F7A08CBCAE0F21D4BE71A524B785F03EE72979E83"
+      },
+      {
+        "RelativePath": "pakchunk999-Pepperball_P.pak",
+        "Sha256": "3B34591E4B1DD99DCAE4C2E3E88C218DCA4FAC9E390A37D89FD467FC0AA62549"
+      },
+      {
+        "RelativePath": "pakchunk999-Pepperspray_P.pak",
+        "Sha256": "010396B0B09901356136D8A1F23EA90F9F9E7C57B4D65E1193A61E9EB4738DA1"
+      },
+      {
+        "RelativePath": "pakchunk999-PW_PMAGS_P.pak",
+        "Sha256": "1E3D1BF299489CA665743034DD3FB994455CA9C6ED4995A517D46B470778B141"
+      },
+      {
+        "RelativePath": "pakchunk9999-Mods_Allu_G36KA4_GF_P.pak",
+        "Sha256": "CD129ABD5CC6CB8B5B589EAD3D0FE4F0B31E66C93A76E7A1D1005ACE51D2A360"
+      },
+      {
+        "RelativePath": "pakchunk9999-Mods_Allu_SCAR-SC_P.pak",
+        "Sha256": "940C704C051DED468981E398656AEC08F070703EE83699110C14A65F3196969D"
+      },
+      {
+        "RelativePath": "pakchunk9999-Mods_CazanusVisceralBlud_P.pak",
+        "Sha256": "9369AD51504F038CBB77F1BFE0B9CB937D36748D39B3560C1E0056A77B3D618F"
+      },
+      {
+        "RelativePath": "pakchunk9999-Mods_CazanusVisceralGore_P.pak",
+        "Sha256": "7A5C1DA732582EC525C8A0F3944F74B33A70DEDAA526033A7F51FD02AA06E4E9"
+      },
+      {
+        "RelativePath": "pakchunk9999-Mods_ExsaitX_Loadout_GunRoom_Theme_P.pak",
+        "Sha256": "7941E39EC73C3CF89FB71DD7F88A72E24F50F3BF7B908B5512E8F2CA22114030"
+      },
+      {
+        "RelativePath": "pakchunk9999-Mods_Moon-920_1_P.pak",
+        "Sha256": "4A0180F335F326D56F2F30EAD8025D77F2D369ED253529410EF7A2727AF821DD"
+      },
+      {
+        "RelativePath": "pakchunk9999-Mods_wound_P.pak",
+        "Sha256": "C4305261DF235104BB2380D61642376456A56612E4803610D2C351B3612C21FA"
+      },
+      {
+        "RelativePath": "pakchunk99999-Mods_ATACR_Texture_P.pak",
+        "Sha256": "11E9FDBBC0B4BAC65BD28B813F0B415EAD5F6CAD5A2496791C4DCC3E449B7425"
+      },
+      {
+        "RelativePath": "pakchunk99999-Mods_Ragdolls_Return_3.0.1_hotfix_P.pak",
+        "Sha256": "A07F70FF9A56510A8EC79F570854871F9DA89EE9933A3C1CF8E4F1E064FC0D0C"
+      },
+      {
+        "RelativePath": "pakchunkz9999-NoYellAnimation.pak",
+        "Sha256": "9F2672C5EC6772153B532676FF3D9F0C72847047264ED591DED03546F76006F8"
+      }
+    ],
+    "Published": "2026-09-20T13:54:34.7768791+00:00",
+    "GameAppId": "1144200",
+    "DownloadUrl": "https://github.com/SecretFourStudios/modpacklink-packs/releases/download/pack-83167-v1.0.0/83167-RoN.Test-v1.0.0.zip"
+  }
+}
