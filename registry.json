@@ -258,9 +258,9 @@
   "24994": {
     "Id": "925a023d-fd81-47df-8101-a04420d65d2b",
     "Code": "24994",
-    "Name": "Ready or Not Modpack",
+    "Name": "Ready Or Not Modpack",
     "Game": "Ready or Not",
-    "Version": "1.0.0",
+    "Version": "1.1.0",
     "Files": [
       {
         "RelativePath": "pakchunk101_2-Mod_ArmorSlots255_P.pak",
@@ -431,8 +431,8 @@
         "Sha256": "D20CA24A70D51717F22222A473D8F2DC7FAB3098AB329AB72A6691D554800E29"
       }
     ],
-    "Published": "2026-09-20T20:24:08.3981794+00:00",
+    "Published": "2026-09-21T12:24:03.8555221+00:00",
     "GameAppId": "1144200",
-    "DownloadUrl": "https://github.com/SecretFourStudios/modpacklink-packs/releases/download/pack-24994-v1.0.0/24994-Ready.or.Not.Modpack-v1.0.0.zip"
+    "DownloadUrl": "https://github.com/SecretFourStudios/modpacklink-packs/releases/download/pack-24994-v1.1.0/24994-Ready.Or.Not.Modpack-v1.1.0.zip"
   }
 }
