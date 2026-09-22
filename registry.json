@@ -434,5 +434,21 @@
     "Published": "2026-09-21T12:24:03.8555221+00:00",
     "GameAppId": "1144200",
     "DownloadUrl": "https://github.com/SecretFourStudios/modpacklink-packs/releases/download/pack-24994-v1.1.0/24994-Ready.Or.Not.Modpack-v1.1.0.zip"
+  },
+  "45590": {
+    "Id": "2b8c8902-5901-4136-9e98-b71bfa912182",
+    "Code": "45590",
+    "Name": "ACotU",
+    "Game": "Ready or Not",
+    "Version": "1.0.0",
+    "Files": [
+      {
+        "RelativePath": "pakchunk99-Mod_YJGB.pak",
+        "Sha256": "AD3A76D70C9DA2ACB09CFD47AFF0A54A36535EE82DB42711198DE4E8FD805E3B"
+      }
+    ],
+    "Published": "2026-09-22T22:14:05.7154438+00:00",
+    "GameAppId": "1144200",
+    "DownloadUrl": "https://github.com/SecretFourStudios/modpacklink-packs/releases/download/pack-45590-v1.0.0/45590-ACotU-v1.0.0.zip"
   }
 }
