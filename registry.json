@@ -260,11 +260,11 @@
     "Code": "24994",
     "Name": "Ready Or Not Modpack",
     "Game": "Ready or Not",
-    "Version": "1.1.0",
+    "Version": "1.2.0",
     "Files": [
       {
-        "RelativePath": "pakchunk101_2-Mod_ArmorSlots255_P.pak",
-        "Sha256": "C318AEB654DFA8F4181151F5E66E587B6F02D2FD613D9576880B71D1C0EB7ABD"
+        "RelativePath": "pakchunk207-RagdollTaser.pak",
+        "Sha256": "D2E6A9066EFD3351B3A83A909B12A84BD83E60235FF687AC29E10A6ABBFD7F0F"
       },
       {
         "RelativePath": "pakchunk97-Restoration_AIO_Nexus_BP_P.pak",
@@ -287,12 +287,20 @@
         "Sha256": "DC5E9D530EC30BAB1E128C9CD8560A184293A1780E38F34B246EAC6106B97D93"
       },
       {
+        "RelativePath": "pakchunk99-Mods_DJI_Drones_P.pak",
+        "Sha256": "30E8429853F24111A8CF4CDC86B9DE78D1EBE0F3A40C0DB05EC71E5730662C15"
+      },
+      {
         "RelativePath": "pakchunk99-Mods_ExsaitX_Armory_V2_Assets_P.pak",
         "Sha256": "369E0ED91519E884CDBD4A6BF1B8AE46E26916B702411AF5EA3D4FF2E296FE16"
       },
       {
         "RelativePath": "pakchunk99-Mods_ExsaitX_Armory_V2_BluePrints_P.pak",
         "Sha256": "FA1894CA35B0ED485DEA4127F27BD21D45A3E2BF5870C1FEBEEEA76EDCC5C268"
+      },
+      {
+        "RelativePath": "pakchunk99-Mods_ExsaitX_MoreSlots25_P.pak",
+        "Sha256": "B70701E021AB4D51149A3E85D617CF46E6DC21B0EE6BEA367BA58D55A649E0AF"
       },
       {
         "RelativePath": "pakchunk99-Mods_FasterScoreV2_P.pak",
@@ -347,10 +355,6 @@
         "Sha256": "D4CB7B30708E62338A8983B629067171C6EEA0398FB2BFAF2DD8CA2963062CA9"
       },
       {
-        "RelativePath": "pakchunk99-Mod_USCVillardMuseum.pak",
-        "Sha256": "8BFF02FF4F0CAE01ACE92E47B0E25697FF33E349FE1F6E82F0633DE300BD7D49"
-      },
-      {
         "RelativePath": "pakchunk99-NoWaitTime_P.pak",
         "Sha256": "38455CBBC1DDEF5EE4EABB56EE743D3EEA2D849B1E7DAD132FC93D7D5E6FC4BC"
       },
@@ -363,8 +367,16 @@
         "Sha256": "06D74BAB0105D11A8679B805058AB5A13E2EE1A06B8DE919733EAC227F79477C"
       },
       {
+        "RelativePath": "pakchunk999-Mods_ExsaitX_AERO_M4E1_Pro_P.pak",
+        "Sha256": "9B0031E62DEF8A34913463B0E2F2DD5F70E41BE5C0290434FF9BE2C47AAB3ED3"
+      },
+      {
         "RelativePath": "pakchunk999-Mods_ExsaitX_Loadout_GunRoom_P.pak",
         "Sha256": "FDFC4B637BD82D3789182A7F7A08CBCAE0F21D4BE71A524B785F03EE72979E83"
+      },
+      {
+        "RelativePath": "pakchunk999-Mods_ExsaitX_Radian_Model1_P.pak",
+        "Sha256": "A6FF2624A3ACF376B1D6EFAF6E6A05422CF82EA82B36E848A4DBF5531890C54D"
       },
       {
         "RelativePath": "pakchunk999-Pepperball_P.pak",
@@ -429,11 +441,15 @@
       {
         "RelativePath": "Pakchunk99999999-Mods_EN-CANIKTTICOMBAT_P.pak",
         "Sha256": "D20CA24A70D51717F22222A473D8F2DC7FAB3098AB329AB72A6691D554800E29"
+      },
+      {
+        "RelativePath": "pakchunk999zzz-LDalarm_P.pak",
+        "Sha256": "EF0C27EE4869D3318DDEFF0A4E8B66CB1854A7DB7EEC3737C7EB5DB0704B7645"
       }
     ],
-    "Published": "2026-09-21T12:24:03.8555221+00:00",
+    "Published": "2026-09-26T17:48:46.6816532+00:00",
     "GameAppId": "1144200",
-    "DownloadUrl": "https://github.com/SecretFourStudios/modpacklink-packs/releases/download/pack-24994-v1.1.0/24994-Ready.Or.Not.Modpack-v1.1.0.zip"
+    "DownloadUrl": "https://github.com/SecretFourStudios/modpacklink-packs/releases/download/pack-24994-v1.2.0/24994-Ready.Or.Not.Modpack-v1.2.0.zip"
   },
   "45590": {
     "Id": "2b8c8902-5901-4136-9e98-b71bfa912182",
