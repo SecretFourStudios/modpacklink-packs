@@ -466,5 +466,77 @@
     "Published": "2026-09-22T22:14:05.7154438+00:00",
     "GameAppId": "1144200",
     "DownloadUrl": "https://github.com/SecretFourStudios/modpacklink-packs/releases/download/pack-45590-v1.0.0/45590-ACotU-v1.0.0.zip"
+  },
+  "45289": {
+    "Id": "3f889d7c-0acb-4799-934a-d1a400dcfd22",
+    "Code": "45289",
+    "Name": "Ready or Not Modpack",
+    "Game": "Ready or Not",
+    "Version": "1.0.0",
+    "Files": [
+      {
+        "RelativePath": "pakchunk97-Restoration_AIO_Nexus_ME_P.pak",
+        "Sha256": "64A4B778B15BFD4C6D21D61B362B5AF098A352609686BF3E0CF3AAA3238DAAC2"
+      },
+      {
+        "RelativePath": "pakchunk99-Mods_NoMercy_P.pak",
+        "Sha256": "F10B69B81452354620EC13F315C45F0D2E26913D3371D47E7220BFF41F32B990"
+      },
+      {
+        "RelativePath": "pakchunk99-Mod_PlayerLimitEditor.pak",
+        "Sha256": "CFA95C9F5A807D1C285774A3CAB064043E3AE246A1918D46310525A1A715B32F"
+      },
+      {
+        "RelativePath": "pakchunk99-Mod_SimpleBlueprintLoader.pak",
+        "Sha256": "1B48EA4D5B17FA5ABA2CC52C5556CB37846E20C137858EDFB8719D500DCE7A32"
+      },
+      {
+        "RelativePath": "pakchunk99-Mod_SimpleModMenu.pak",
+        "Sha256": "4255C8FCCAC11762743039CCCF905E4F2C315641E76D630A148DB121AC8AFD45"
+      },
+      {
+        "RelativePath": "pakchunk999-Armor30Slots_P.pak",
+        "Sha256": "469656EA72623427F73FF51E4BD161A891F9DA8EB6B2C406072CA7B20D70689D"
+      },
+      {
+        "RelativePath": "pakchunk9995-zz_WeaponMemory_P.pak",
+        "Sha256": "E86C7BB1E533139517E8AA8DB39F6EE2132A8508D36B02A082B452535CA6735B"
+      },
+      {
+        "RelativePath": "pakchunk9999-Mods_CazanusVisceralBlud_P.pak",
+        "Sha256": "9369AD51504F038CBB77F1BFE0B9CB937D36748D39B3560C1E0056A77B3D618F"
+      },
+      {
+        "RelativePath": "pakchunk9999-Mods_CazanusVisceralGore_P.pak",
+        "Sha256": "7A5C1DA732582EC525C8A0F3944F74B33A70DEDAA526033A7F51FD02AA06E4E9"
+      },
+      {
+        "RelativePath": "pakchunk9999-Mods_SM32A1_P.pak",
+        "Sha256": "10029D9570498DE62DC36B0D744A33ABD9CBEF4D86B1576752091C88DCF09C68"
+      },
+      {
+        "RelativePath": "pakchunk9999-Mods_wound_P.pak",
+        "Sha256": "C4305261DF235104BB2380D61642376456A56612E4803610D2C351B3612C21FA"
+      },
+      {
+        "RelativePath": "pakchunk9999-zz_DarkerAtmosphere_P.pak",
+        "Sha256": "DDFAE0B3BC84F9D31958F5FC8798B969C3916A39C622AD11D4EB70B8A537B6CC"
+      },
+      {
+        "RelativePath": "pakchunk99999-Mod_DoubleTapSafety_P.pak",
+        "Sha256": "997695DDAC98736AA71D1930E5855C0226D7FA3859523C3FE73FC8F5704DE2B0"
+      },
+      {
+        "RelativePath": "pakchunk9999999999-Mods_MP443_Grach_VAL3T_1000_P.pak",
+        "Sha256": "029CF311087F7055DAE702A8B0FD7A528FDF748FB91E3917D854F01BC890C88D"
+      },
+      {
+        "RelativePath": "pakchunk99999999999999999-zzzzzz_OKP_SRS_v2_P.pak",
+        "Sha256": "2B26FF22520088117393F3B073D7C6BF0A04E123236106B2D751C4F9EA46BBC8"
+      }
+    ],
+    "Published": "2026-10-20T00:01:26.7943746+00:00",
+    "GameAppId": "1144200",
+    "DownloadUrl": "https://github.com/SecretFourStudios/modpacklink-packs/releases/download/pack-45289-v1.0.0/45289-Ready.or.Not.Modpack-v1.0.0.zip"
   }
 }
