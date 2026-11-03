@@ -538,5 +538,101 @@
     "Published": "2026-10-20T00:01:26.7943746+00:00",
     "GameAppId": "1144200",
     "DownloadUrl": "https://github.com/SecretFourStudios/modpacklink-packs/releases/download/pack-45289-v1.0.0/45289-Ready.or.Not.Modpack-v1.0.0.zip"
+  },
+  "94228": {
+    "Id": "0d1fb3cd-029f-4fcd-8041-9fb9a0b5010c",
+    "Code": "94228",
+    "Name": "Ready Or Not V1.5.3 Update",
+    "Game": "Ready or Not",
+    "Version": "1.0.0",
+    "Files": [
+      {
+        "RelativePath": "pakchunk99-Mods_BYZ_M24_P.pak",
+        "Sha256": "C8CE4E0121186F9F2BB06A7E15C8BCFDD600CAA9C2AB17BC41164FE9F4EBD345"
+      },
+      {
+        "RelativePath": "pakchunk99-Mods_FasterScoreV2_P.pak",
+        "Sha256": "624A968CEEFF808CDEFDAB99C073113EDC508EAC4EED791867219A6BE05FFD85"
+      },
+      {
+        "RelativePath": "pakchunk99-Mods_NoMercy_P.pak",
+        "Sha256": "F10B69B81452354620EC13F315C45F0D2E26913D3371D47E7220BFF41F32B990"
+      },
+      {
+        "RelativePath": "pakchunk99-Mods_OCC_Slots_50_BP_1.5.3_P.pak",
+        "Sha256": "AC23E727035B69EBC11616116972610887FC622284C7DE388BF15D8AEB204B58"
+      },
+      {
+        "RelativePath": "pakchunk99-Mod_IRIllum.pak",
+        "Sha256": "53165A8185B8A5BB736CB04CDE3635CF46A811D9A4DC43BD93632155BE471024"
+      },
+      {
+        "RelativePath": "pakchunk99-Mod_PlayerLimitEditor.pak",
+        "Sha256": "CFA95C9F5A807D1C285774A3CAB064043E3AE246A1918D46310525A1A715B32F"
+      },
+      {
+        "RelativePath": "pakchunk99-Mod_SimpleBlueprintLoader.pak",
+        "Sha256": "1B48EA4D5B17FA5ABA2CC52C5556CB37846E20C137858EDFB8719D500DCE7A32"
+      },
+      {
+        "RelativePath": "pakchunk99-Mod_SimpleModMenu.pak",
+        "Sha256": "4255C8FCCAC11762743039CCCF905E4F2C315641E76D630A148DB121AC8AFD45"
+      },
+      {
+        "RelativePath": "pakchunk998-Mods_BAL_DLC4_Attachment-Expansion_P.pak",
+        "Sha256": "5ED1762724939A1B9C061F8D01C6D1A11571DB560B591935FC9F9289DBFC5D02"
+      },
+      {
+        "RelativePath": "pakchunk998-Mods_BAL_DLC4_Customization-Unlocked_P.pak",
+        "Sha256": "EC4DBAC94141FF08BA11AA994BB341DE457ABA2552A65C68CE3D46941CEA79C2"
+      },
+      {
+        "RelativePath": "pakchunk999-MapSweep.pak",
+        "Sha256": "5EADBE83713F587A07B6B2B163B6C59223E355F6378B48A02D9A2B81AB9EA95A"
+      },
+      {
+        "RelativePath": "pakchunk999-Mods_BAL_DLC4_Addon_BCM-Recce14-KMR_P.pak",
+        "Sha256": "688C0583BEB98617F8881D97E05B49A3FA69D34F1303481CDF40BF1834E35840"
+      },
+      {
+        "RelativePath": "pakchunk999-Mods_BAL_DLC4_Addon_M4A1-Block-2_P.pak",
+        "Sha256": "B14326A9A82A7BD4194AE4ACA3578F973CD613A010F126833DADD382F411CB83"
+      },
+      {
+        "RelativePath": "pakchunk999-Mods_BAL_DLC4_Addon_SOLGW_MK1_P.pak",
+        "Sha256": "549EB2E7FDDE8F7064FEE55D8E598C1E5BD0B0DF3EA74AD3ADA6759C52CA8068"
+      },
+      {
+        "RelativePath": "pakchunk999-Mods_BAL_Masked-SWAT_BLK_P.pak",
+        "Sha256": "36A2D6902AB14A0BC9D3E92E5F4176582F16DB2646707CFFAF4B75012508350B"
+      },
+      {
+        "RelativePath": "pakchunk9999-Mods_CazanusVisceralBlud_P.pak",
+        "Sha256": "9369AD51504F038CBB77F1BFE0B9CB937D36748D39B3560C1E0056A77B3D618F"
+      },
+      {
+        "RelativePath": "pakchunk9999-Mods_CazanusVisceralGore_P.pak",
+        "Sha256": "7A5C1DA732582EC525C8A0F3944F74B33A70DEDAA526033A7F51FD02AA06E4E9"
+      },
+      {
+        "RelativePath": "pakchunk9999-Mods_wound_P.pak",
+        "Sha256": "C4305261DF235104BB2380D61642376456A56612E4803610D2C351B3612C21FA"
+      },
+      {
+        "RelativePath": "pakchunk9999-zz_DarkerAtmosphere_P.pak",
+        "Sha256": "904C4D61C5751C428B0577D608114B6CA9E2B24ED083B77FED21CFBAF9764E65"
+      },
+      {
+        "RelativePath": "pakchunk99999-Mod_DoubleTapSafety_P.pak",
+        "Sha256": "997695DDAC98736AA71D1930E5855C0226D7FA3859523C3FE73FC8F5704DE2B0"
+      },
+      {
+        "RelativePath": "pakchunk9999999999-Mods_RealNames_P.pak",
+        "Sha256": "E14C58069A8880BD77455AD2ACF468827DF1DB2CB3270AAAB4D926879BCE761E"
+      }
+    ],
+    "Published": "2026-11-03T12:53:57.0751222+00:00",
+    "GameAppId": "1144200",
+    "DownloadUrl": "https://github.com/SecretFourStudios/modpacklink-packs/releases/download/pack-94228-v1.0.0/94228-Ready.Or.Not.V1.5.3.Update-v1.0.0.zip"
   }
 }
