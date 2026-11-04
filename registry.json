@@ -544,7 +544,7 @@
     "Code": "94228",
     "Name": "Ready Or Not V1.5.3 Update",
     "Game": "Ready or Not",
-    "Version": "1.0.0",
+    "Version": "1.0.1",
     "Files": [
       {
         "RelativePath": "pakchunk99-Mods_BYZ_M24_P.pak",
@@ -579,6 +579,10 @@
         "Sha256": "4255C8FCCAC11762743039CCCF905E4F2C315641E76D630A148DB121AC8AFD45"
       },
       {
+        "RelativePath": "pakchunk99-YuzuStreamer.pak",
+        "Sha256": "D71A303BA182AC3C0B9B588650A4E4D7878EAC0E595954FA6F127E0969BFFB2A"
+      },
+      {
         "RelativePath": "pakchunk998-Mods_BAL_DLC4_Attachment-Expansion_P.pak",
         "Sha256": "5ED1762724939A1B9C061F8D01C6D1A11571DB560B591935FC9F9289DBFC5D02"
       },
@@ -603,16 +607,16 @@
         "Sha256": "549EB2E7FDDE8F7064FEE55D8E598C1E5BD0B0DF3EA74AD3ADA6759C52CA8068"
       },
       {
-        "RelativePath": "pakchunk999-Mods_BAL_Masked-SWAT_BLK_P.pak",
-        "Sha256": "36A2D6902AB14A0BC9D3E92E5F4176582F16DB2646707CFFAF4B75012508350B"
-      },
-      {
         "RelativePath": "pakchunk9999-Mods_CazanusVisceralBlud_P.pak",
         "Sha256": "9369AD51504F038CBB77F1BFE0B9CB937D36748D39B3560C1E0056A77B3D618F"
       },
       {
         "RelativePath": "pakchunk9999-Mods_CazanusVisceralGore_P.pak",
         "Sha256": "7A5C1DA732582EC525C8A0F3944F74B33A70DEDAA526033A7F51FD02AA06E4E9"
+      },
+      {
+        "RelativePath": "pakchunk9999-Mods_RealisticFlashlight_P.pak",
+        "Sha256": "E14004AAB20E1765397C17D752C993BB6EA1243FD75376A1CFC4799452506E7F"
       },
       {
         "RelativePath": "pakchunk9999-Mods_wound_P.pak",
@@ -623,16 +627,20 @@
         "Sha256": "904C4D61C5751C428B0577D608114B6CA9E2B24ED083B77FED21CFBAF9764E65"
       },
       {
-        "RelativePath": "pakchunk99999-Mod_DoubleTapSafety_P.pak",
-        "Sha256": "997695DDAC98736AA71D1930E5855C0226D7FA3859523C3FE73FC8F5704DE2B0"
+        "RelativePath": "pakchunk99999-ElephantEnhanced2026WEAPONS_P.pak",
+        "Sha256": "5200B2346EE7C4BA7DDC0A01351EAA7FBB417FEF59262D1D1232E6A8B9DFF18D"
+      },
+      {
+        "RelativePath": "pakchunk99999-Mod_A_New_America_Pure_Dark_P.pak",
+        "Sha256": "839AD21711798F1249E21935EEA5A3737EBE09A9B333AF51958122F94CE4ECAE"
       },
       {
         "RelativePath": "pakchunk9999999999-Mods_RealNames_P.pak",
         "Sha256": "E14C58069A8880BD77455AD2ACF468827DF1DB2CB3270AAAB4D926879BCE761E"
       }
     ],
-    "Published": "2026-11-03T12:53:57.0751222+00:00",
+    "Published": "2026-11-04T18:28:36.2496427+00:00",
     "GameAppId": "1144200",
-    "DownloadUrl": "https://github.com/SecretFourStudios/modpacklink-packs/releases/download/pack-94228-v1.0.0/94228-Ready.Or.Not.V1.5.3.Update-v1.0.0.zip"
+    "DownloadUrl": "https://github.com/SecretFourStudios/modpacklink-packs/releases/download/pack-94228-v1.0.1/94228-Ready.Or.Not.V1.5.3.Update-v1.0.1.zip"
   }
 }
