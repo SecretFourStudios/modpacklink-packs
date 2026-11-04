@@ -544,7 +544,7 @@
     "Code": "94228",
     "Name": "Ready Or Not V1.5.3 Update",
     "Game": "Ready or Not",
-    "Version": "1.0.1",
+    "Version": "1.0.2",
     "Files": [
       {
         "RelativePath": "pakchunk99-Mods_BYZ_M24_P.pak",
@@ -615,6 +615,10 @@
         "Sha256": "7A5C1DA732582EC525C8A0F3944F74B33A70DEDAA526033A7F51FD02AA06E4E9"
       },
       {
+        "RelativePath": "pakchunk9999-Mods_Moon-920_1_P.pak",
+        "Sha256": "4A0180F335F326D56F2F30EAD8025D77F2D369ED253529410EF7A2727AF821DD"
+      },
+      {
         "RelativePath": "pakchunk9999-Mods_RealisticFlashlight_P.pak",
         "Sha256": "E14004AAB20E1765397C17D752C993BB6EA1243FD75376A1CFC4799452506E7F"
       },
@@ -639,8 +643,8 @@
         "Sha256": "E14C58069A8880BD77455AD2ACF468827DF1DB2CB3270AAAB4D926879BCE761E"
       }
     ],
-    "Published": "2026-11-04T18:28:36.2496427+00:00",
+    "Published": "2026-11-04T18:46:00.8297492+00:00",
     "GameAppId": "1144200",
-    "DownloadUrl": "https://github.com/SecretFourStudios/modpacklink-packs/releases/download/pack-94228-v1.0.1/94228-Ready.Or.Not.V1.5.3.Update-v1.0.1.zip"
+    "DownloadUrl": "https://github.com/SecretFourStudios/modpacklink-packs/releases/download/pack-94228-v1.0.2/94228-Ready.Or.Not.V1.5.3.Update-v1.0.2.zip"
   }
 }
