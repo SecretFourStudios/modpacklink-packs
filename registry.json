@@ -544,7 +544,7 @@
     "Code": "94228",
     "Name": "Ready Or Not V1.5.3 Update",
     "Game": "Ready or Not",
-    "Version": "1.0.2",
+    "Version": "1.0.3",
     "Files": [
       {
         "RelativePath": "pakchunk99-Mods_BYZ_M24_P.pak",
@@ -643,8 +643,8 @@
         "Sha256": "E14C58069A8880BD77455AD2ACF468827DF1DB2CB3270AAAB4D926879BCE761E"
       }
     ],
-    "Published": "2026-11-04T18:46:00.8297492+00:00",
+    "Published": "2026-11-06T20:56:30.4076307+00:00",
     "GameAppId": "1144200",
-    "DownloadUrl": "https://github.com/SecretFourStudios/modpacklink-packs/releases/download/pack-94228-v1.0.2/94228-Ready.Or.Not.V1.5.3.Update-v1.0.2.zip"
+    "DownloadUrl": "https://github.com/SecretFourStudios/modpacklink-packs/releases/download/pack-94228-v1.0.3/94228-Ready.Or.Not.V1.5.3.Update-v1.0.3.zip"
   }
 }
