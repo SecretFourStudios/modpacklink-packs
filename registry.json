@@ -646,5 +646,129 @@
     "Published": "2026-11-06T20:56:30.4076307+00:00",
     "GameAppId": "1144200",
     "DownloadUrl": "https://github.com/SecretFourStudios/modpacklink-packs/releases/download/pack-94228-v1.0.3/94228-Ready.Or.Not.V1.5.3.Update-v1.0.3.zip"
+  },
+  "92935": {
+    "Id": "6cff22da-14ab-49a0-ac3c-b87192ca9a3f",
+    "Code": "92935",
+    "Name": "7D2D QoL (GV v3.4)",
+    "Game": "7 Days to Die",
+    "Version": "1.0.0",
+    "Files": [
+      {
+        "RelativePath": "AutopickupArrowsAndBolts\\AutopickupArrowsAndBolts.dll",
+        "Sha256": "E72DD7D444CC8130FAF1A92E139E887D5F6300C7148BBD50915DAA13C2E692CC"
+      },
+      {
+        "RelativePath": "AutopickupArrowsAndBolts\\ModInfo.xml",
+        "Sha256": "B747ABD785F936B361EDF2D4B12B44709BA06EAFAEEF3131F473479A286FA33A"
+      },
+      {
+        "RelativePath": "AutopickupArrowsAndBolts\\settings.json",
+        "Sha256": "4173757754FFEF03EEF5AD360A6ECA2F2D4B87DA6649D58F3945D48967A4DA6A"
+      },
+      {
+        "RelativePath": "DrokkStorage\\DrokkStorage.dll",
+        "Sha256": "94A722F64FB24AF0511DF78122391526681860F292986C6B9631927275191432"
+      },
+      {
+        "RelativePath": "DrokkStorage\\ModInfo.xml",
+        "Sha256": "1EA0C9FF15093E297E0FE28D8E26FAE7BB68E40CEA10C0C5777BB6AD7646757E"
+      },
+      {
+        "RelativePath": "FuelOnDemand\\CHANGELOG.md",
+        "Sha256": "B25D9464ACBCAADC5A96DF5C2D1BFD245D226C33F344DCC2E1996E06CFEB690E"
+      },
+      {
+        "RelativePath": "FuelOnDemand\\FuelOnDemand.dll",
+        "Sha256": "EC60E077BC6AA4744E8420E1D5B094502F8F081E174DCFD73606ED8A7C84C919"
+      },
+      {
+        "RelativePath": "FuelOnDemand\\LICENSE",
+        "Sha256": "9AB28D67592BE9AB09782DB045DB33897AB6DDE29602725E88961DAA2E25ACD9"
+      },
+      {
+        "RelativePath": "FuelOnDemand\\ModInfo.xml",
+        "Sha256": "DE990AD4AD8BFC34C6458906A72E23A768977775D4D75C7545F8706A85B529B4"
+      },
+      {
+        "RelativePath": "FuelOnDemand\\README.md",
+        "Sha256": "16CC06D03844DEECC204537FB2F9E4CFDD7B0C3749FF5D0847C7F83F4B99BAA1"
+      },
+      {
+        "RelativePath": "GoreBloodBags\\ModInfo.xml",
+        "Sha256": "EE9331E9FBD119026CF26C0BA561E22F319D214724EA155C488F770D8896F973"
+      },
+      {
+        "RelativePath": "SalvageWeakSpot\\ModInfo.xml",
+        "Sha256": "914E65F9F24CA00A4AD36D812CA98AE13CDDEDB3A4743700E387EB0036F12AEC"
+      },
+      {
+        "RelativePath": "SalvageWeakSpot\\SalvageWeakSpot.dll",
+        "Sha256": "16FCA984B190B522338027A1CFB13381B5F5A0E0AFF0483613C60195F5EB90F2"
+      },
+      {
+        "RelativePath": "SalvageWeakSpot\\settings.txt",
+        "Sha256": "D91BFE2ABABC75B75E895CBA725C97F568586FC7ADF86E4C61EC45DD68297A28"
+      },
+      {
+        "RelativePath": "AutopickupArrowsAndBolts\\Config\\items.xml",
+        "Sha256": "3665CCD7F9936C54238B8021858051B235C06EBD9547BE88353A9C8CA7D1101B"
+      },
+      {
+        "RelativePath": "AutopickupArrowsAndBolts\\Config\\nav_objects.xml",
+        "Sha256": "D1683FEE4D5DF216BDB76E293CD58A17C65453E299BE786FF23C0C31E1566171"
+      },
+      {
+        "RelativePath": "DrokkStorage\\Config\\Localization.csv",
+        "Sha256": "C846A8F05C3086896E45FFA6AF3A4971AF9D620300E557159779687DB5131225"
+      },
+      {
+        "RelativePath": "DrokkStorage\\Config\\settings.xml",
+        "Sha256": "088B3AAC462AA9BC7111E86035618D71A8DD5374BA254AC0CF8C5D445FC57788"
+      },
+      {
+        "RelativePath": "FuelOnDemand\\Config\\fuelondemand.xml",
+        "Sha256": "6BE99A2F58F6BEED30FA218BD39BD5A1E6CF389443B6A6353C216AB801605569"
+      },
+      {
+        "RelativePath": "GoreBloodBags\\Config\\blocks.xml",
+        "Sha256": "CE0823A848112F8D6CC7735E090A38B382776B266BAC66693F0C4A9C76E84830"
+      },
+      {
+        "RelativePath": "SalvageWeakSpot\\Config\\Localization.csv",
+        "Sha256": "262EE772B190146914CD2262BB58A943CDE28208DFFF7A25F22A1B81DE1D5D65"
+      },
+      {
+        "RelativePath": "AutopickupArrowsAndBolts\\UIAtlases\\UIAtlas\\ui_game_arrow_bundle.png",
+        "Sha256": "507AD20C8332AB88874061D6D8EDB0B65B2F9BF533320BA3E7457B0973FE02A1"
+      },
+      {
+        "RelativePath": "AutopickupArrowsAndBolts\\UIAtlases\\UIAtlas\\ui_game_arrow_icon.png",
+        "Sha256": "3370074AE9DDFAB355F617530A497BC80C79297A87E2ABEB01C01AAB71E45A54"
+      },
+      {
+        "RelativePath": "DrokkStorage\\Config\\XUi_InGame\\windows.xml",
+        "Sha256": "2C47D57E48DBEA644B791BEC043D40CAE3EE52CF8CAB28B34A5802502C1B495D"
+      },
+      {
+        "RelativePath": "DrokkStorage\\Config\\XUi_Menu\\windows.xml",
+        "Sha256": "C34CC7CA5B50106F9A9345A2ECF8FCBF7D5BC17B05CBFD5B7F04A017F063D6AD"
+      },
+      {
+        "RelativePath": "DrokkStorage\\Config\\XUi_Menu\\xui.xml",
+        "Sha256": "9BAA8DA9DC6B815A08310125779D8C67C4C6403B42B55C063B6A71A3766B4FC1"
+      },
+      {
+        "RelativePath": "DrokkStorage\\UIAtlases\\UIAtlas\\ui_game_symbol_quickrestock.png",
+        "Sha256": "2AF50C6316984F2E2C2F619A43FB15FF38B4DDCA9B4B5D7B4EA94AD451A2B41E"
+      },
+      {
+        "RelativePath": "DrokkStorage\\UIAtlases\\UIAtlas\\ui_game_symbol_quickstack.png",
+        "Sha256": "418A8DC90EBA2AA1AFC97E8F3B03F7CDEF0F945DF04FBC27A4847A9B05C24603"
+      }
+    ],
+    "Published": "2026-11-19T22:15:07.4700057+00:00",
+    "GameAppId": "251570",
+    "DownloadUrl": "https://github.com/SecretFourStudios/modpacklink-packs/releases/download/pack-92935-v1.0.0/92935-7D2D.QoL.GV.v3.4.-v1.0.0.zip"
   }
 }
